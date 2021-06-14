@@ -1,4 +1,4 @@
-# Como usar o Git e Github na prática 
+# Como usar o Git e Github na prática   https://github.com/rafaballerini/GitTutorial
  
 ## Início do vídeo 🎥
 
